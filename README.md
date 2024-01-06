@@ -50,7 +50,11 @@ Now you can put the lid on the cartridge, and secure it with two short pieces of
 
 ## A word to anyone who wants to sell these cartridges
 
-This cartridge model is open-source, that means I have made my design freely available for the Single 8 community to print and use their own cartridges. The licence I have chosen is strongly reciprocal, this means that if you modify the design you must also release it as open sopurce. If you distribute it or cartridges made from it you must also distribute the URL of this repository.
+This cartridge model is open-source, that means I have made my design freely available for the Single 8 community to print and use their own cartridges. The licence I have chosen is strongly reciprocal, this means that if you modify the design you must also release it as open source. If you distribute it or cartridges made from it you must also distribute the URL of this repository.
 
 You can sell these cartridges, but if you do so I have something to say. The photographic world is full of profiteers, and if that's you I have something to say to you. It costs well under 20 dollars to get these cartridges printed commercially, less if you produce them in quantity, so I think 30 dollars is a maximum fair price to sell them for. I made this model as a free gift to the community under an open source licence, because I earn my money as a technical journalist. If I catch anyone selling these cartridges for silly money I promise this: I will make sure the world and dog knows about it, and I will undercut you. Try adding value by loading your cartridges with film, but even then don't take the piss.
+
+## My thanks to: 
+
+Without the generous help and expertise of Frank Bruinsma at the [Super 8 Reversal Lab](https://super8.nl/) in Den Haag Netherlands, this project would have taken much longer and had many more false starts.
 
