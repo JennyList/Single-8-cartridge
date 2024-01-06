@@ -56,5 +56,5 @@ You can sell these cartridges, but if you do so I have something to say. The pho
 
 ## My thanks to: 
 
-Without the generous help and expertise of Frank Bruinsma at the [Super 8 Reversal Lab](https://super8.nl/) in Den Haag Netherlands, this project would have taken much longer and had many more false starts.
+Without the generous help and expertise of Frank Bruinsma at the [Super 8 Reversal Lab](https://super8.nl/) in Den Haag, Netherlands, this project would have taken much longer and had many more false starts.
 
