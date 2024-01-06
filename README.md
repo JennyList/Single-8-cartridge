@@ -1,4 +1,4 @@
-# Single-8-cartridge
+# A 3D Printable Cartridge To Fit Fuji Single 8 Cameras
 
 Version 1.1 of a film cartridge designed to fit Fuji Single 8 cameras, released as open source under the CERN OHL-S V2.0 licence.
 
