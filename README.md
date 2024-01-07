@@ -4,6 +4,8 @@ Version 1.1 of a film cartridge designed to fit Fuji Single 8 cameras, released 
 
 ## What is it?
 
+![An OpenSCAD render of this cartridge model to fit Single 8 cameras.](./images/single-8-600.jpg)
+
 It's a 3D-printable shell and parts for a film cartridge to fit Fuji Single 8 home movie cameras. This is a film fomat for which film was produced from 1965 to about 2010 when it ceased production, leaving Single 8 film enthusiasts without a supply of film. It is possible to load a Single 8 cartridge with film from a Kodak Super 8 cartridge, and that's what this project is intended for.
 
 ## What are the files?
