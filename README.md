@@ -26,6 +26,8 @@ I suggest very strongly that you spray the outside of both cartridge bottom and 
 
 ## Loading the cartridge with film
 
+![The inside of the cartridge showing the film path.](./images/resin-cartridge-600.jpg)
+
 This is as good a cartridge as I think it's possible to make by these means, but it's still an experimental item, and requires care and practice to load correctly. Obviously any film you wish to shoot must be loaded in the dark, but it is strongly suggested that you practice with scrap or expired film in the light until you understand how it works. Make sure you know what you are doing before you load it with something you intend to shoot, and bear in mind that this is an experimental design before you trust it with valuable film.
 
 If you place the bottom half of the cartridge in front of you with the bottom facing down and the area for the film gate facing towards you, the full reel should be on the left, the emulsion should face you, the sprocket holes should be along the lower edge of the film, and the take-up reel should be on the right.
