@@ -1,5 +1,7 @@
 # A 3D Printable Cartridge To Fit Fuji Single 8 Cameras
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
+
 Version 1.1 of a film cartridge designed to fit Fuji Single 8 cameras, released as open source under the CERN OHL-S V2.0 licence.
 
 ## What is it?
@@ -61,5 +63,3 @@ You can sell these cartridges, but if you do so I have something to say. The pho
 ## My thanks to: 
 
 Without the generous help and expertise of Frank Bruinsma at the [Super 8 Reversal Lab](https://super8.nl/) in Den Haag, Netherlands, this project would have taken much longer and had many more false starts.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
